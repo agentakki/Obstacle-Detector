@@ -1,4 +1,4 @@
-Naveasy
+Obstacle-Detector
 =======
 
-Android+Glass app to help you navigate.
+Android app to help you detect obstacles using JavaCV.
